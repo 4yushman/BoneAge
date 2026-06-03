@@ -342,7 +342,7 @@ This project was built as a collaborative effort, with work split across model d
 | | Name | Responsibilities | GitHub |
 |---|---|---|---|
 | 🧑‍💻 | **Ayushman Maurya** | Uncertainty quantification, inference pipeline, FastAPI, Docker, deployment | [@4yushman](https://github.com/4yushman) |
-| 🧑‍💻 | **Faraz** | Data pipeline, model training, GradCAM, clinical rules, PDF reports, evaluation | [@faraz-username](https://github.com/) |
+| 🧑‍💻 | **Faraz** | Data pipeline, model training, GradCAM, clinical rules, PDF reports, evaluation | [@fkhan85](https://github.com/) |
 
 All work was done through **feature branches, pull requests, and code reviews** — following industry-standard collaborative Git workflow.
 
